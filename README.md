@@ -1,4 +1,6 @@
 # Calculator App - iOS
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+
 
 The Calculator App is a simple and user-friendly calculator application for iOS devices. It provides basic arithmetic operations and a clean user interface for efficient calculations. This readme file serves as a guide to help you understand the features and functionality of the Calculator App.
 
